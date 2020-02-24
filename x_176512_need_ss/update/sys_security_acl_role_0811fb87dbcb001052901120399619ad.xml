@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-23 15:21:49</sys_created_on>
+        <sys_id>0811fb87dbcb001052901120399619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_176512_need_ss_needit.x_176512_need_ss.needit_user</sys_name>
+        <sys_package display_value="Need Sergei style" source="x_176512_need_ss">33fd6bc3dbcb0010529011203996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Need Sergei style">33fd6bc3dbcb0010529011203996195a</sys_scope>
+        <sys_security_acl display_value="x_176512_need_ss_needit">8811fb87dbcb001052901120399619aa</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0811fb87dbcb001052901120399619ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-23 15:21:49</sys_updated_on>
+        <sys_user_role display_value="x_176512_need_ss.needit_user" name="x_176512_need_ss.needit_user">88113b87dbcb00105290112039961937</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

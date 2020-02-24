@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_requsted_type" table="x_176512_need_ss_needit" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requsted_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resources</label>
+            <language>en</language>
+            <name>x_176512_need_ss_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>sergei.k</sys_created_by>
+            <sys_created_on>2020-02-24 11:36:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0178cebdb430010529011203996190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sergei.k</sys_updated_by>
+            <sys_updated_on>2020-02-24 11:36:25</sys_updated_on>
+            <value>[hr]</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requsted_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities</label>
+            <language>en</language>
+            <name>x_176512_need_ss_needit</name>
+            <sequence>1</sequence>
+            <sys_created_by>sergei.k</sys_created_by>
+            <sys_created_on>2020-02-24 11:36:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0178cebdb4300105290112039961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sergei.k</sys_updated_by>
+            <sys_updated_on>2020-02-24 11:36:25</sys_updated_on>
+            <value>facilities</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requsted_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>legal</label>
+            <language>en</language>
+            <name>x_176512_need_ss_needit</name>
+            <sequence>2</sequence>
+            <sys_created_by>sergei.k</sys_created_by>
+            <sys_created_on>2020-02-24 11:36:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c178cebdb4300105290112039961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sergei.k</sys_updated_by>
+            <sys_updated_on>2020-02-24 11:36:25</sys_updated_on>
+            <value>legal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requsted_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>factories</label>
+            <language>en</language>
+            <name>x_176512_need_ss_needit</name>
+            <sequence>3</sequence>
+            <sys_created_by>sergei.k</sys_created_by>
+            <sys_created_on>2020-02-24 11:36:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48178cebdb4300105290112039961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sergei.k</sys_updated_by>
+            <sys_updated_on>2020-02-24 11:36:25</sys_updated_on>
+            <value>factories</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_requsted_type</element>
+            <name>x_176512_need_ss_needit</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>sergei.k</sys_created_by>
+            <sys_created_on>2020-02-24 11:36:25</sys_created_on>
+            <sys_id>0c178cebdb430010529011203996190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_requsted_type</sys_name>
+            <sys_package display_value="Need Sergei style" source="x_176512_need_ss">33fd6bc3dbcb0010529011203996195a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Need Sergei style">33fd6bc3dbcb0010529011203996195a</sys_scope>
+            <sys_update_name>sys_choice_x_176512_need_ss_needit_u_requsted_type</sys_update_name>
+            <sys_updated_by>sergei.k</sys_updated_by>
+            <sys_updated_on>2020-02-24 11:36:25</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

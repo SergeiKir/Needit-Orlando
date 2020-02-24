@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="new_field_two" label="New field two" language="en" table="x_176512_need_ss_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>new_field_two</element>
+            <help/>
+            <hint/>
+            <label>New field two</label>
+            <language>en</language>
+            <name>x_176512_need_ss_needit</name>
+            <plural>New field twos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sergei.k</sys_created_by>
+            <sys_created_on>2020-02-24 11:20:28</sys_created_on>
+            <sys_id>6263086bdb43001052901120399619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New field two</sys_name>
+            <sys_package display_value="Need Sergei style" source="x_176512_need_ss">33fd6bc3dbcb0010529011203996195a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Need Sergei style">33fd6bc3dbcb0010529011203996195a</sys_scope>
+            <sys_update_name>sys_documentation_x_176512_need_ss_needit_new_field_two_en</sys_update_name>
+            <sys_updated_by>sergei.k</sys_updated_by>
+            <sys_updated_on>2020-02-24 11:20:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
